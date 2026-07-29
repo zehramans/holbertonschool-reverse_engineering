@@ -1,1 +1,1 @@
-objdump -h task1 | grep '\.hbtn-custom'
+readelf -S task1
